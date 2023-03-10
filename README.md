@@ -13,3 +13,5 @@ Coming soon
 </br>
 <h2>Support</h2>
 Find the Content Useful? You can always buy me a coffee
+<h1><a href="https://www.buymeacoffee.com/patricklema">
+ <img alt="views" title="GitHub profile views" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></h1>
