@@ -1,0 +1,108 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap");
+
+*,
+*::before*::after {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  font-size: 3vmin;
+}
+body {
+  margin: 0;
+  background: #032333;
+  font-family: "Space Mono", monospace;
+  color: white;
+}
+
+h1 {
+  color: #e3d5ca;
+}
+
+.counter {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.count {
+  width: 10rem;
+  height: 10rem;
+  border-radius: 3rem;
+  border: solid #8ecae6 0.1rem;
+  margin: 1rem 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 5rem;
+  transition: ease 0.5s;
+}
+
+.count.active {
+  opacity: 1;
+}
+
+.count,
+.inactive {
+  opacity: 0.3;
+}
+
+.button-field {
+  display: flex;
+  button {
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+    background-color: transparent;
+    color: #fb8500;
+    cursor: pointer;
+    border: 2px;
+    border: solid #fb8500 2px;
+    font-size: 1rem;
+    font-weight: 100;
+    margin: 0 1rem;
+  }
+  button:nth-child(3) {
+    border: solid #06d6a0 2px;
+    color: #06d6a0;
+  }
+  button:nth-child(2) {
+    border: solid #ae2012 2px;
+    color: #ae2012;
+  }
+}
+
+input {
+  width: 2rem;
+  padding: 0.5rem;
+  background-color: transparent;
+  border-radius: 5px;
+  border: solid #ffffff 2px;
+  margin-right: 0.5rem;
+  outline: none;
+  opacity: 0.5;
+  font-family: inherit;
+  color: whitesmoke;
+}
+
+input:focus {
+  opacity: 1;
+}
+
+.add-con {
+  margin: 1rem 0;
+}
+
+.addby-btn {
+  padding: 0.5rem;
+  cursor: pointer;
+  background-color: transparent;
+  border-radius: 5px;
+  border: solid #fcbf49 2px;
+  color: #fcbf49;
+  font-family: inherit;
+  font-weight: 700;
+}
