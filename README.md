@@ -5,7 +5,11 @@
 <h2>Projects Include</h4>
 
 <ol>
+<li>Counter app</li>
+<li>Couter app 2 (with redux as a state management)</li>
 <li>Tours App</li>
+<li>Todo App</li>
+<li>Blog post App</li>
 </ol>
 </br>
 <h2>Project Site</h2>
