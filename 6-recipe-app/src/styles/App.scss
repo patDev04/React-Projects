@@ -1,0 +1,54 @@
+.App {
+  margin: auto 15rem;
+
+  &-header {
+    margin-top: 4rem;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+  }
+
+  h5 {
+    text-transform: uppercase;
+    font-family: "Bitter", serif;
+    padding: 0 2rem;
+    background-color: white;
+    color: #00b4ff;
+    width: fit-content;
+    text-align: center;
+  }
+}
+
+.category {
+  margin: 2rem 0;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+button {
+  min-width: 4rem;
+  margin-bottom: 0.5rem;
+  background-color: transparent;
+  border: solid white 1px;
+  padding: 0.5rem;
+  color: white;
+  font-family: inherit;
+  text-transform: capitalize;
+  cursor: pointer;
+  transition: all 0.2s;
+  font-weight: 600;
+  &:hover {
+    background-color: white;
+    color: #00b4ff;
+  }
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem;
+}

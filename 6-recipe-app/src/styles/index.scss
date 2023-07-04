@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Bitter:wght@100;300;400;600&family=Crimson+Text:wght@400;600;700&family=Dancing+Script:wght@400;500;600;700&family=Dosis:wght@200;400&family=Josefin+Sans:wght@100;300;400;600&family=Poppins:wght@100;200;300;400;600&display=swap");
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 3vmin;
+}
+
+body {
+  margin: 0;
+  background-color: #00b4ff;
+  font-family: "Bitter", serif;
+  font-family: "Dancing Script", cursive;
+  font-family: "Poppins", sans-serif;
+}

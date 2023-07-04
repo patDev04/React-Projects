@@ -1,0 +1,1466 @@
+[
+    {
+        "id": 1,
+        "name": "Two-minute smoothie",
+        "info": "Whizz up a low fat breakfast smoothie in no time. Use banana with other soft fruit, plus honey for a little sweetness and oats for slow-release fuel",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/two-minute-breakfast-smoothie-4a4722d.jpg",
+        "duration": [
+            {
+                "hours": null,
+                "minutes": 2
+            }
+        ],
+        "difficulty": "easy",
+        "serves": 2,
+        "nutrition": [
+            {
+                "calories": 156,
+                "vegan": false,
+                "vegetable": true,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "breakfast"
+    },
+    {
+        "id": 2,
+        "name": "Flambéed chicken with asparagus",
+        "info": "An elegant spring dinner party dish that looks and tastes very special. Perfect with new potatoes",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-52847_12-893ba80.jpg",
+        "duration": [
+            {
+                "hours": null,
+                "minutes": 50
+            }
+        ],
+        "difficulty": "a challenge",
+        "serves": 4,
+        "nutrition": [
+            {
+                "calories": 395,
+                "vegan": false,
+                "vegetable": false,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "lunch"
+    },
+    {
+        "id": 3,
+        "name": "Greek feta traybake",
+        "info": "Make this Greek-inspired traybake with feta, olives, pitta bread and tomatoes for an easy midweek meal, then use the leftovers for lunch the next day",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/feta_traybake-50733f6.jpg",
+        "duration": [
+            {
+                "hours": null,
+                "minutes": 35
+            }
+        ],
+        "difficulty": "easy",
+        "serves": 2,
+        "nutrition": [
+            {
+                "calories": 391,
+                "vegan": false,
+                "vegetable": true,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "main course"
+    },
+    {
+        "id": 4,
+        "name": "Blueberry bakewell muffins",
+        "info": "These easy blueberry muffins have a delightfully jammy centre and crunchy crumble topping – a tasty treat for teatime or packed lunch",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/blueberry-bakewell-muffins-c6cff59.jpg",
+        "duration": [
+            {
+                "hours": null,
+                "minutes": 40
+            }
+        ],
+        "difficulty": "easy",
+        "serves": "makes 12",
+        "nutrition": [
+            {
+                "calories": 312,
+                "vegan": false,
+                "vegetable": false,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "dessert"
+    },
+    {
+        "id": 5,
+        "name": "Sweet potato and coconut soup",
+        "info": "Blitz up this simple vegan soup in just 20 minutes for a quick lunch or starter. Sweet potatoes, coconut and Thai green curry paste make for a flavourful combination, best enjoyed with warm naan bread",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-338728_11-1ed1b41.jpg?",
+        "duration": [
+            {
+                "hours": null,
+                "minutes": 20
+            }
+        ],
+        "difficulty": "easy",
+        "serves": 4,
+        "nutrition": [
+            {
+                "calories": 240,
+                "vegan": false,
+                "vegetable": false,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "main course"
+    },
+    {
+        "id": 6,
+        "name": "Little lemon meringue pies",
+        "info": "These weeekend puds are light and fluffy with a tangy filling",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-49476_11-67f8495.jpg",
+        "duration": [
+            {
+                "hours": 1,
+                "minutes": 5
+            }
+        ],
+        "difficulty": "more effort",
+        "serves": 8,
+        "nutrition": [
+            {
+                "calories": 500,
+                "vegan": false,
+                "vegetable": false,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "dessert"
+    },
+    {
+        "id": 7,
+        "name": "Banana smoothie",
+        "info": "Quick and easy to make, this banana, prune, almond milk and nut butter smoothie is an ideal on-the-go energy boost",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/afternoon-pick-me-up-smoothie-506a768.jpg",
+        "duration": [
+            {
+                "hours": null,
+                "minutes": 5
+            }
+        ],
+        "difficulty": "easy",
+        "serves": 2,
+        "nutrition": [
+            {
+                "calories": 250,
+                "vegan": false,
+                "vegetable": false,
+                "healthly": false,
+                "gluten": true
+            }
+        ],
+        "category": "drink"
+    },
+    {
+        "id": 8,
+        "name": "Roast fillet of beef with mushroom stuffing",
+        "info": "Serve up a spectacular centrepiece of roast beef with a rich stuffing, and a clever twist on Yorkshire puddings",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-411525_11-82c280e.jpg",
+        "duration": [
+            {
+                "hours": 1,
+                "minutes": 30
+            }
+        ],
+        "difficulty": "a challenge",
+        "serves": 6,
+        "nutrition": [
+            {
+                "calories": 499,
+                "vegan": false,
+                "vegetable": false,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "main course"
+    },
+    {
+        "id": 9,
+        "name": "Long amaretto sours",
+        "info": "Add some glamour to an al fresco lunch by serving these cocktails to start",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-424799_11-0d19e5b.jpg",
+        "duration": [
+            {
+                "hours": null,
+                "minutes": 5
+            }
+        ],
+        "difficulty": "easy",
+        "serves": 134,
+        "nutrition": [
+            {
+                "calories": 134,
+                "vegan": false,
+                "vegetable": false,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "drink"
+    },
+    {
+        "id": 10,
+        "name": "Blackened roast salmon with avocado & mango salsa",
+        "info": "Use punchy Cajun spices to flavour this salmon dish. The fresh avocado and mango salsa and the zingy lime juice cuts through the spicy flavours of the salmon",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/blackened_salmon-070c765.jpg",
+        "duration": [
+            {
+                "hours": 1,
+                "minutes": 0
+            }
+        ],
+        "difficulty": "more effort",
+        "serves": 6,
+        "nutrition": [
+            {
+                "calories": 589,
+                "vegan": false,
+                "vegetable": false,
+                "healthly": false,
+                "gluten": true
+            }
+        ],
+        "category": "main course"
+    },
+    {
+        "id": 11,
+        "name": "burrito",
+        "info": "Fill a nutritious wholemeal wrap with lots of healthy breakfast ingredients to make this veggie burrito. We’ve included protein-rich eggs and avocado to add good fats",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/breakfast-burrito-b086548.jpg",
+        "duration": [
+            {
+                "hours": null,
+                "minutes": 15
+            }
+        ],
+        "difficulty": "easy",
+        "serves": 1,
+        "nutrition": [
+            {
+                "calories": 366,
+                "vegan": false,
+                "vegetable": true,
+                "healthly": true,
+                "gluten": false
+            }
+        ],
+        "category": "breakfast"
+    },
+    {
+        "id": 12,
+        "name": "Spatchcock barbecue chicken",
+        "info": "An ultra-tasty addition to your barbecue meal",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-1032451_11-090840c.jpg",
+        "duration": [
+            {
+                "hours": 1,
+                "minutes": 20
+            }
+        ],
+        "difficulty": "a challenge",
+        "serves": 4,
+        "nutrition": [
+            {
+                "calories": 650,
+                "vegan": false,
+                "vegetable": false,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "dinner"
+    },
+    {
+        "id": 13,
+        "name": "Italian-style roast cabbage wedges with tomato lentils",
+        "info": "Roast cabbage for a veggie centrepiece, with crisp, caramelised leaves on the outside and a soft, sweet centre. Serve with our Italian-inspired lentils and golden roast new potatoes",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/italian-crispy-roast-cabbage-wedges-523a758.jpg",
+        "duration": [
+            {
+                "hours": 1,
+                "minutes": 45
+            }
+        ],
+        "difficulty": "more effort",
+        "serves": 6,
+        "nutrition": [
+            {
+                "calories": 610,
+                "vegan": false,
+                "vegetable": false,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "main course"
+    },
+    {
+        "id": 14,
+        "name": "The great breakfast burger",
+        "info": "Start the day with this flavour-packed breakfast sausage burger with bacon, cheese and tomato relish",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-1075571_11-9e34376.jpg",
+        "duration": [
+            {
+                "hours": null,
+                "minutes": 55
+            }
+        ],
+        "difficulty": "more effort",
+        "serves": 8,
+        "nutrition": [
+            {
+                "calories": 801,
+                "vegan": false,
+                "vegetable": false,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "lunch"
+    },
+    {
+        "id": 15,
+        "name": "Leek, ricotta & gruyère tart",
+        "info": "Ricotta gives this quiche a lovely, light cheese-cakey texture – leftovers make a great packed lunch",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-914451_11-ad6a8ca.jpg",
+        "duration": [
+            {
+                "hours": 1,
+                "minutes": 30
+            }
+        ],
+        "difficulty": "more effort",
+        "serves": 8,
+        "nutrition": [
+            {
+                "calories": false,
+                "vegan": false,
+                "vegetable": true,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "main course"
+    },
+    {
+        "id": 16,
+        "name": "Spinach roulade with sundried tomatoes",
+        "info": "A stunning centrepiece that is simple to make and sure to tempt vegetarians and meat eaters alike",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-560716_11-a8ced46.jpg",
+        "duration": [
+            {
+                "hours": null,
+                "minutes": 35
+            }
+        ],
+        "difficulty": "easy",
+        "serves": 4,
+        "nutrition": [
+            {
+                "calories": 441,
+                "vegan": false,
+                "vegetable": true,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "dinner"
+    },
+    {
+        "id": 17,
+        "name": "Greek feta traybake",
+        "info": "Make this Greek-inspired traybake with feta, olives, pitta bread and tomatoes for an easy midweek meal, then use the leftovers for lunch the next day",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/feta_traybake-50733f6.jpg",
+        "duration": [
+            {
+                "hours": null,
+                "minutes": 35
+            }
+        ],
+        "difficulty": "easy",
+        "serves": 2,
+        "nutrition": [
+            {
+                "calories": 391,
+                "vegan": false,
+                "vegetable": false,
+                "healthly": true,
+                "gluten": false
+            }
+        ],
+        "category": "main course"
+    },
+    {
+        "id": 18,
+        "name": "Sparkling mint & lemon juleps",
+        "info": "A sparkling wine cocktail to start a lovely evening",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-444718_11-e3d1f3f.jpg",
+        "duration": [
+            {
+                "hours": null,
+                "minutes": 15
+            }
+        ],
+        "difficulty": "easy",
+        "serves": 6,
+        "nutrition": [
+            {
+                "calories": 0,
+                "vegan": false,
+                "vegetable": false,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "drink"
+    },
+    {
+        "id": 19,
+        "name": "Christmas dinner wellington",
+        "info": "Mix up your festive main with this fabulous Christmas dinner wellington. A make-ahead meal in one, it incorporates stuffing and cranberry sauce, so all you need to think about on the big day is the veg and gravy",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/christmas-wellington-17c695f.jpg",
+        "duration": [
+            {
+                "hours": 1,
+                "minutes": 45
+            }
+        ],
+        "difficulty": "more effort",
+        "serves": 8,
+        "nutrition": [
+            {
+                "calories": 935,
+                "vegan": false,
+                "vegetable": false,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "dinner"
+    },
+    {
+        "id": 20,
+        "name": "Spinach & smoked salmon egg muffins",
+        "info": "Serve one or two of these per person for brunch - depending on how hungry/greedy you are",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-21254_11-124b66f.jpg",
+        "duration": [
+            {
+                "hours": null,
+                "minutes": 30
+            }
+        ],
+        "difficulty": "a challenge",
+        "serves": 4,
+        "nutrition": [
+            {
+                "calories": 626,
+                "vegan": false,
+                "vegetable": false,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "breakfast"
+    },
+    {
+        "id": 21,
+        "name": "Minty beaujolais ice",
+        "info": "This fruity granita is a perfect palate-cleansing starter",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-812459_10-39fa965.jpg",
+        "duration": [
+            {
+                "hours": null,
+                "minutes": 15
+            }
+        ],
+        "difficulty": "easy",
+        "serves": 8,
+        "nutrition": [
+            {
+                "calories": 167,
+                "vegan": false,
+                "vegetable": false,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "drink"
+    },
+    {
+        "id": 22,
+        "name": "Healthy egg & chips",
+        "info": "One that dads will love! This any-time meal is perfect with a helping of baked beans",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-1201496_12-652bd94.jpg",
+        "duration": [
+            {
+                "hours": 1,
+                "minutes": 10
+            }
+        ],
+        "difficulty": "easy",
+        "serves": 4,
+        "nutrition": [
+            {
+                "calories": 218,
+                "vegan": false,
+                "vegetable": true,
+                "healthly": true,
+                "gluten": true
+            }
+        ],
+        "category": "lunch"
+    },
+    {
+        "id": 23,
+        "name": "Ultimate quiche Lorraine",
+        "info": "The key to making the perfect quiche is simplicity, as you can see with this delicious recipe",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-373549_10-6a47bc6.jpg",
+        "duration": [
+            {
+                "hours": 1,
+                "minutes": 15
+            }
+        ],
+        "difficulty": "more effort",
+        "serves": 8,
+        "nutrition": [
+            {
+                "calories": 525,
+                "vegan": false,
+                "vegetable": false,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "main course"
+    },
+    {
+        "id": 24,
+        "name": "One-pan piri piri chicken dinner",
+        "info": "Try this one-pan piri piri chicken for a family dinner and adjust the chilli levels to suit your family's tolerance. You can use a whole chicken instead, if you like",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2022/03/One-pan-piri-piri-chicken-dinner-1489950.jpg",
+        "duration": [
+            {
+                "hours": 1,
+                "minutes": 3
+            }
+        ],
+        "difficulty": "easy",
+        "serves": 4,
+        "nutrition": [
+            {
+                "calories": 571,
+                "vegan": false,
+                "vegetable": false,
+                "healthly": false,
+                "gluten": true
+            }
+        ],
+        "category": "dinner"
+    },
+    {
+        "id": 25,
+        "name": "Raspberry, lemon & frangipane tart",
+        "info": "The most stunning summer dessert ever; raspberry, lemon and frangipane tart",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-1697_11-667447b.jpg",
+        "duration": [
+            {
+                "hours": 2,
+                "minutes": 0
+            }
+        ],
+        "difficulty": "a challenge",
+        "serves": 10,
+        "nutrition": [
+            {
+                "calories": 579,
+                "vegan": false,
+                "vegetable": false,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "dessert"
+    },
+    {
+        "id": 26,
+        "name": "Quinoa salad with grilled halloumi",
+        "info": "Try this easy veggie salad for a great source of iron and enjoy as a light lunch or supper. It uses gluten-free quinoa for an extra dose of protein",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-851475_11-8475146.jpg",
+        "duration": [
+            {
+                "hours": null,
+                "minutes": 40
+            }
+        ],
+        "difficulty": "easy",
+        "serves": 3,
+        "nutrition": [
+            {
+                "calories": 603,
+                "vegan": false,
+                "vegetable": true,
+                "healthly": false,
+                "gluten": true
+            }
+        ],
+        "category": "main course"
+    },
+    {
+        "id": 27,
+        "name": "Fruit & nut bowl",
+        "info": "Top cheap and healthy porridge oats with chopped fresh oranges, Greek yogurt and a sprinkling of dried fruit, nuts and seeds",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/fruitnutbreakfastbowl_5833-f6053e0.jpg",
+        "duration": [
+            {
+                "hours": null,
+                "minutes": 15
+            }
+        ],
+        "difficulty": "easy",
+        "serves": 2,
+        "nutrition": [
+            {
+                "calories": false,
+                "vegan": false,
+                "vegetable": true,
+                "healthly": true,
+                "gluten": false
+            }
+        ],
+        "category": "breakfast"
+    },
+    {
+        "id": 28,
+        "name": "White chocolate & apricot cheesecake",
+        "info": "A stunning centrepiece for any celebration or the perfect end to a Sunday lunch",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-1259628_8-d997672.jpg",
+        "duration": [
+            {
+                "hours": 4,
+                "minutes": 50
+            }
+        ],
+        "difficulty": "more effort",
+        "serves": 8,
+        "nutrition": [
+            {
+                "calories": 679,
+                "vegan": false,
+                "vegetable": false,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "dessert"
+    },
+    {
+        "id": 29,
+        "name": "Venison steaks with stroganoff sauce & shoestring fries",
+        "info": "Steak and chips gets even more special with rare seared game and homemade fries with mushroom cream sauce",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-1098495_11-319e3ec.jpg",
+        "duration": [
+            {
+                "hours": null,
+                "minutes": 55
+            }
+        ],
+        "difficulty": "more effort",
+        "serves": 2,
+        "nutrition": [
+            {
+                "calories": 719,
+                "vegan": false,
+                "vegetable": false,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "dinner"
+    },
+    {
+        "id": 30,
+        "name": "Strawberry & elderflower trifle",
+        "info": "The plumpest, ripest strawberries make up this classic summer trifle with ginger jelly and a lemon drizzle cake base",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/strawberry-elderflower-trifle-491dae8.jpg?",
+        "duration": [
+            {
+                "hours": null,
+                "minutes": 45
+            }
+        ],
+        "difficulty": "a challenge",
+        "serves": 12,
+        "nutrition": [
+            {
+                "calories": 704,
+                "vegan": false,
+                "vegetable": false,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "dessert"
+    },
+    {
+        "id": 31,
+        "name": "Parsnip, mushroom & barley wreath",
+        "info": "The perfect vegetarian Christmas or Sunday lunch centrepiece - a low-calorie nut loaf packed with grains, root vegetables, mixed mushrooms, herbs and spice",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/wreath-f555741.jpg",
+        "duration": [
+            {
+                "hours": 2,
+                "minutes": 5
+            }
+        ],
+        "difficulty": "a challenge",
+        "serves": 8,
+        "nutrition": [
+            {
+                "calories": 332,
+                "vegan": false,
+                "vegetable": true,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "main course"
+    },
+    {
+        "id": 32,
+        "name": "Raspberry, chocolate & hazelnut bread",
+        "info": "This indulgent brunch loaf requires good bread and kneading skills- prepare the dough ahead then pop it in the oven to serve warm",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/bread_0-1d395e9.jpg",
+        "duration": [
+            {
+                "hours": 1,
+                "minutes": 40
+            }
+        ],
+        "difficulty": "more effort",
+        "serves": 8,
+        "nutrition": [
+            {
+                "calories": 422,
+                "vegan": true,
+                "vegetable": true,
+                "healthly": true,
+                "gluten": true
+            }
+        ],
+        "category": "breakfast"
+    },
+    {
+        "id": 33,
+        "name": "Prosciutto-wrapped chicken & leek terrine",
+        "info": "Gordon's make-ahead terrine is the perfect starter when you're entertaining a crowd",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-23050_12-b3e645e.jpg",
+        "duration": [
+            {
+                "hours": null,
+                "minutes": 2
+            }
+        ],
+        "difficulty": "easy",
+        "serves": 8,
+        "nutrition": [
+            {
+                "calories": 322,
+                "vegan": false,
+                "vegetable": false,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "dinner"
+    },
+    {
+        "id": 34,
+        "name": "Peanut butter chicken",
+        "info": "You'll love this new, budget chicken dish. Any leftovers freeze well and make a handy lunch.",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/peanut-butter-chicken-37f339a.jpg",
+        "duration": [
+            {
+                "hours": null,
+                "minutes": 50
+            }
+        ],
+        "difficulty": "easy",
+        "serves": 4,
+        "nutrition": [
+            {
+                "calories": 572,
+                "vegan": false,
+                "vegetable": false,
+                "healthly": false,
+                "gluten": true
+            }
+        ],
+        "category": "main course"
+    },
+    {
+        "id": 35,
+        "name": "Fish pie with saffron mash",
+        "info": "A great dinner party dish. This can be made ahead and frozen so there's always something ready to entertain guests",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-560911_12-e1657a9.jpg",
+        "duration": [
+            {
+                "hours": 1,
+                "minutes": 45
+            }
+        ],
+        "difficulty": "more effort",
+        "serves": 6,
+        "nutrition": [
+            {
+                "calories": 683,
+                "vegan": false,
+                "vegetable": false,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "dinner"
+    },
+    {
+        "id": 36,
+        "name": "Cauliflower rarebits",
+        "info": "Combine cauliflower cheese with a traditional Welsh rarebit for the perfect pub lunch. Serve with chutney, watercress salad and a pint of beer",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/cauliflower-rarebits-4d07677.jpg",
+        "duration": [
+            {
+                "hours": null,
+                "minutes": 45
+            }
+        ],
+        "difficulty": "easy",
+        "serves": 2,
+        "nutrition": [
+            {
+                "calories": 478,
+                "vegan": false,
+                "vegetable": true,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "lunch"
+    },
+    {
+        "id": 37,
+        "name": "Slow cooked leg of lamb",
+        "info": "Slow cooked, melt-in-the-mouth meat that needs seven hours in the oven but little more than seven minutes work from the cook",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/slow-cooked-leg-of-lamb-3c51179.jpg",
+        "duration": [
+            {
+                "hours": 7,
+                "minutes": 45
+            }
+        ],
+        "difficulty": "more effort",
+        "serves": 4,
+        "nutrition": [
+            {
+                "calories": 743,
+                "vegan": false,
+                "vegetable": false,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "dinner"
+    },
+    {
+        "id": 38,
+        "name": "Pan-fried chicken in mushroom sauce",
+        "info": "Creamy chicken and mushroom dish - a fabulous French seasonal recipe",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-337474_12-76ea5be.jpg",
+        "duration": [
+            {
+                "hours": 1,
+                "minutes": 45
+            }
+        ],
+        "difficulty": "more effort",
+        "serves": 6,
+        "nutrition": [
+            {
+                "calories": 600,
+                "vegan": false,
+                "vegetable": false,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "main course"
+    },
+    {
+        "id": 39,
+        "name": "Feta & kale loaded sweet potato",
+        "info": "Serve up this sweet potato packed with feta, chickpeas and kale for a healthy lunch. Topped with pumpkin seeds, it delivers three of your 5-a-day",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2018/02/feta-kale-sweet-potato-92ade52.jpg",
+        "duration": [
+            {
+                "hours": 1,
+                "minutes": null
+            }
+        ],
+        "difficulty": "easy",
+        "serves": 2,
+        "nutrition": [
+            {
+                "calories": 422,
+                "vegan": false,
+                "vegetable": true,
+                "healthly": true,
+                "gluten": true
+            }
+        ],
+        "category": "main course"
+    },
+    {
+        "id": 40,
+        "name": "Mushroom & spinach risotto",
+        "info": "Make the time to stir carefully during cooking to make this vegetarian Italian rice pot super creamy",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-1040460_11-f2ed1a4.jpg",
+        "duration": [
+            {
+                "hours": null,
+                "minutes": 55
+            }
+        ],
+        "difficulty": "more effort",
+        "serves": 2,
+        "nutrition": [
+            {
+                "calories": 574,
+                "vegan": false,
+                "vegetable": true,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "dinner"
+    },
+    {
+        "id": 41,
+        "name": "Cinnamon twists",
+        "info": "Bake these fabulous cinnamon twists for an on-the-go breakfast or sweet treat. They take a little effort but are well worth it",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/cinnamon-twists-7e3c96d.jpg",
+        "duration": [
+            {
+                "hours": 1,
+                "minutes": null
+            }
+        ],
+        "difficulty": "more effort",
+        "serves": 16,
+        "nutrition": [
+            {
+                "calories": 221,
+                "vegan": false,
+                "vegetable": true,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "breakfast"
+    },
+    {
+        "id": 42,
+        "name": "Buttermilk fried chicken",
+        "info": "Follow this step-by-step recipe for foolproof fried chicken - dip in buttermilk batter for a golden, seasoned crust and sweet, tender chicken",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/southern-fried-chicken-62e495e.jpg?quality=90&webp=true&resize=440,400",
+        "duration": [
+            {
+                "hours": 1,
+                "minutes": 40
+            }
+        ],
+        "difficulty": "more effort",
+        "serves": 6,
+        "nutrition": [
+            {
+                "calories": 476,
+                "vegan": false,
+                "vegetable": false,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "lunch"
+    },
+    {
+        "id": 43,
+        "name": "Greek lamb with orzo",
+        "info": "Entertaining doesn't have to equal stress, this spruced up one-pot is perfect for people with little time for preparation",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-424736_11-922cf3f.jpg",
+        "duration": [
+            {
+                "hours": 2,
+                "minutes": 55
+            }
+        ],
+        "difficulty": "more effort",
+        "serves": 6,
+        "nutrition": [
+            {
+                "calories": 696,
+                "vegan": false,
+                "vegetable": false,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "dinner"
+    },
+    {
+        "id": 44,
+        "name": "Ultimate meringue",
+        "info": "Learn how to make basic meringues and perfect your whisking skills. These light, crispy baked meringues are the perfect blank canvas for different flavours.",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-1027467_11-b1d6d64.jpg",
+        "duration": [
+            {
+                "hours": 2,
+                "minutes": 15
+            }
+        ],
+        "difficulty": "more effort",
+        "serves": 16,
+        "nutrition": [
+            {
+                "calories": 210,
+                "vegan": false,
+                "vegetable": false,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "dessert"
+    },
+    {
+        "id": 45,
+        "name": "Gyoza",
+        "info": "Learn to make these authentic Japanese meat or vegetable dumplings, known as yaki gyoza, with our step-by-step guide",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/gyoza-2d840f9.jpg",
+        "duration": [
+            {
+                "hours": null,
+                "minutes": 50
+            }
+        ],
+        "difficulty": "a challenge",
+        "serves": 26,
+        "nutrition": [
+            {
+                "calories": 197,
+                "vegan": false,
+                "vegetable": false,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "dinner"
+    },
+    {
+        "id": 46,
+        "name": "Moussaka",
+        "info": "Make our easy moussaka for an instant crowd pleaser. This classic Greek dish of layered thinly sliced potato, aubergine and lamb is topped with a creamy béchamel sauce.",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/moussaka-f787650.jpg",
+        "duration": [
+            {
+                "hours": 2,
+                "minutes": 45
+            }
+        ],
+        "difficulty": "more effort",
+        "serves": 6,
+        "nutrition": [
+            {
+                "calories": 516,
+                "vegan": false,
+                "vegetable": false,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "dinner"
+    },
+    {
+        "id": 47,
+        "name": "Baked fruity autumn pudding",
+        "info": "This pudding is bursting with autumn flavours, and can be made up to a day ahead - just reheat in the microwave",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-424664_11-e5e45fe.jpg",
+        "duration": [
+            {
+                "hours": 1,
+                "minutes": 45
+            }
+        ],
+        "difficulty": "a challenge",
+        "serves": 6,
+        "nutrition": [
+            {
+                "calories": 841,
+                "vegan": false,
+                "vegetable": false,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "dessert"
+    },
+    {
+        "id": 48,
+        "name": "Turkish one-pan eggs & peppers (Menemen)",
+        "info": "Menemen is a traditional Turkish dish that's healthy and brilliant for brunch, lunch or supper. Serve with warm pitta bread for scooping up the delicious sauce and runny egg yolks",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-1201531_11-80800f0.jpg",
+        "duration": [
+            {
+                "hours": null,
+                "minutes": 20
+            }
+        ],
+        "difficulty": "easy",
+        "serves": 4,
+        "nutrition": [
+            {
+                "calories": 222,
+                "vegan": false,
+                "vegetable": true,
+                "healthly": true,
+                "gluten": true
+            }
+        ],
+        "category": "main course"
+    },
+    {
+        "id": 49,
+        "name": "Eggs benedict with smoked salmon & chives",
+        "info": "Get your poaching technique honed and serve up this brunch classic – it's easily-doubled to feed a family or crowd",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-857455_11-4f5a8dd.jpg",
+        "duration": [
+            {
+                "hours": null,
+                "minutes": 35
+            }
+        ],
+        "difficulty": "a challenge",
+        "serves": 4,
+        "nutrition": [
+            {
+                "calories": 564,
+                "vegan": false,
+                "vegetable": false,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "breakfast"
+    },
+    {
+        "id": 50,
+        "name": "Moroccan-style barbecued leg of lamb",
+        "info": "Mary Cadogan demonstrates the technique of boning out a leg of lamb and how to cook it",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-684666_10-0a62acd.jpg",
+        "duration": [
+            {
+                "hours": 1,
+                "minutes": 10
+            }
+        ],
+        "difficulty": "a challenge",
+        "serves": 8,
+        "nutrition": [
+            {
+                "calories": 734,
+                "vegan": false,
+                "vegetable": false,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "dinner"
+    },
+    {
+        "id": 51,
+        "name": "Quick tomato soup with cheesy garlic dippers",
+        "info": "Everyone needs a trusty tomato soup recipe - and this one costs less than a pound per serving",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-558500_11-d720d9e.jpg",
+        "duration": [
+            {
+                "hours": null,
+                "minutes": 25
+            }
+        ],
+        "difficulty": "easy",
+        "serves": 2,
+        "nutrition": [
+            {
+                "calories": 414,
+                "vegan": false,
+                "vegetable": false,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "dinner"
+    },
+    {
+        "id": 52,
+        "name": "Danish pastries",
+        "info": "Turn the kitchen into your own little patisserie with this step-by-step guide to buttery Danish pastries",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-194475_11-1c9efb6.jpg",
+        "duration": [
+            {
+                "hours": 1,
+                "minutes": 20
+            }
+        ],
+        "difficulty": "more effort",
+        "serves": "makes 18 pastries",
+        "nutrition": [
+            {
+                "calories": 218,
+                "vegan": false,
+                "vegetable": false,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "breakfast"
+    },
+    {
+        "id": 53,
+        "name": "Creamy courgette lasagne",
+        "info": "Serve this quick, creamy courgette & ricotta lasagne for a last-minute dinner party to impress vegetarian friends. It's a great way to use courgettes when they're in season",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2022/03/Creamy-courgette-lasagne-e63aa0c.jpg",
+        "duration": [
+            {
+                "hours": null,
+                "minutes": 30
+            }
+        ],
+        "difficulty": "easy",
+        "serves": 4,
+        "nutrition": [
+            {
+                "calories": 405,
+                "vegan": false,
+                "vegetable": true,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "dinner"
+    },
+    {
+        "id": 54,
+        "name": "Sticky citrus sponge cake",
+        "info": "A great dessert to feed a crowd at the end of a Sunday lunch - it's like a baked version of a steamed syrup sponge",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-554484_11-6f364aa.jpg",
+        "duration": [
+            {
+                "hours": 1,
+                "minutes": 10
+            }
+        ],
+        "difficulty": "easy",
+        "serves": "cut into 10",
+        "nutrition": [
+            {
+                "calories": 442,
+                "vegan": false,
+                "vegetable": false,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "dessert"
+    },
+    {
+        "id": 55,
+        "name": "Crumpets",
+        "info": "Make your own fluffy crumpets for breakfast or brunch. They're well worth the effort and go down a treat with a slathering of butter",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/crumpets-8e64a86.jpg",
+        "duration": [
+            {
+                "hours": 1,
+                "minutes": null
+            }
+        ],
+        "difficulty": "more effort",
+        "serves": null,
+        "nutrition": [
+            {
+                "calories": false,
+                "vegan": false,
+                "vegetable": true,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "breakfast"
+    },
+    {
+        "id": 56,
+        "name": "Herby Persian frittata",
+        "info": "Power up your lunchbreak with this healthy frittata made with eggs, herbs, spring onions, walnuts and feta. It'll be on the table in just 20 minute",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/herby-persian-frittata-b6d39b6.jpg",
+        "duration": [
+            {
+                "hours": null,
+                "minutes": 1
+            }
+        ],
+        "difficulty": "easy",
+        "serves": 2,
+        "nutrition": [
+            {
+                "calories": 198,
+                "vegan": false,
+                "vegetable": true,
+                "healthly": false,
+                "gluten": true
+            }
+        ],
+        "category": "lunch"
+    },
+    {
+        "id": 57,
+        "name": "One-pan roast dinner",
+        "info": "Take the stress out of a Sunday roast with this one-pan recipe that couldn't be simpler",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-513808_11-c61f40b.jpg",
+        "duration": [
+            {
+                "hours": 1,
+                "minutes": 40
+            }
+        ],
+        "difficulty": "easy",
+        "serves": 4,
+        "nutrition": [
+            {
+                "calories": 845,
+                "vegan": false,
+                "vegetable": false,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "dinner"
+    },
+    {
+        "id": 58,
+        "name": "The perfect croque monsieur",
+        "info": "Master the croque monsieur with soft sourdough, gruyère, smoked ham and creamy mustard mayo. You'll relish every mouthful of this brunch classic.",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/the-perfect-croque-monsieur-547f7a2.jpg",
+        "duration": [
+            {
+                "hours": null,
+                "minutes": 50
+            }
+        ],
+        "difficulty": "more effort",
+        "serves": 2,
+        "nutrition": [
+            {
+                "calories": 876,
+                "vegan": false,
+                "vegetable": false,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "lunch"
+    },
+    {
+        "id": 59,
+        "name": "Smoked mackerel, courgette & butter bean salad",
+        "info": "Get a dose of omega-3 in this gluten-free salad that takes just 15 minutes to prepare. It's ideal for a quick and easy midweek supper, or a filling lunch",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/mackerel-7ff9d6f.jpg",
+        "duration": [
+            {
+                "hours": null,
+                "minutes": 15
+            }
+        ],
+        "difficulty": "easy",
+        "serves": 644,
+        "nutrition": [
+            {
+                "calories": 526,
+                "vegan": false,
+                "vegetable": false,
+                "healthly": false,
+                "gluten": true
+            }
+        ],
+        "category": "main course"
+    },
+    {
+        "id": 60,
+        "name": "Flambéed chicken with asparagus",
+        "info": "An elegant spring dinner party dish that looks and tastes very special. Perfect with new potatoes",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-52847_12-893ba80.jpg",
+        "duration": [
+            {
+                "hours": null,
+                "minutes": 50
+            }
+        ],
+        "difficulty": "a challenge",
+        "serves": 4,
+        "nutrition": [
+            {
+                "calories": 395,
+                "vegan": false,
+                "vegetable": false,
+                "healthly": false,
+                "gluten": false
+            }
+        ],
+        "category": "main course"
+    },
+    {
+        "id": 61,
+        "name": "pancake platter",
+        "info": "Serve a base of wholemeal American-style pancakes alongside a range of toppings. Go sweet with fruit and yogurt, or savoury with soft cheese and salmon",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2022/02/pancake-platter-78dc92d.jpg",
+        "duration": [
+            {
+                "hours": null,
+                "minutes": 30
+            }
+        ],
+        "difficulty": "easy",
+        "serves": 4,
+        "nutrition": [
+            {
+                "calories": 371,
+                "vegan": false,
+                "vegetable": false,
+                "healthly": true,
+                "gluten": false
+            }
+        ],
+        "category": "breakfast"
+    }
+]
