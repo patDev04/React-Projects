@@ -1,0 +1,141 @@
+.cart {
+  &-container {
+    margin: 2rem 0;
+    text-align: center;
+  }
+
+  &-title {
+    color: grey;
+  }
+  &-status {
+    margin: 0.5rem 0;
+  }
+
+  &-titles {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin-top: 2rem;
+    h5 {
+      font-weight: 500;
+    }
+  }
+
+  &-item {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    padding: 1rem 0;
+    border-bottom: solid rgb(238, 238, 238) 1px;
+    font-size: 1rem !important;
+  }
+  &-img {
+    width: 4rem;
+    height: 4rem;
+    object-fit: contain;
+    object-position: center;
+  }
+  &-product {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    align-items: center;
+
+    .remove-btn {
+      background-color: transparent;
+      border: none;
+      text-decoration: underline;
+      color: rgb(182, 139, 139);
+      cursor: pointer;
+    }
+  }
+
+  &-price,
+  &-quantity {
+    text-align: center;
+    align-self: center;
+  }
+  &-quantity {
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    width: fit-content;
+    border-radius: 3px;
+
+    .qty {
+      margin-inline: 1rem;
+      //   font-size: 0.8rem;
+    }
+  }
+
+  .inc,
+  .dec {
+    padding: 0.2rem 0.5rem;
+    // font-size: 0.7rem;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+  }
+
+  &-total {
+    text-align: right;
+    align-self: center;
+  }
+  &-summary {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-top: 3rem;
+  }
+
+  &-clear-btn {
+    padding: 0.6rem 1rem;
+    border-radius: 3px;
+    border: none;
+    text-transform: capitalize;
+    cursor: pointer;
+    transition: 0.3s;
+    &:hover {
+      outline: solid grey 0.01px;
+    }
+  }
+
+  &-checkout {
+    width: 30%;
+    .subtotal {
+      display: flex;
+      justify-content: space-between;
+    }
+    p {
+      font-size: 0.7rem;
+      color: grey;
+    }
+    .checkout-btn {
+      width: 100%;
+      background-color: rgb(0, 105, 175);
+      border: none;
+      color: white;
+      padding: 0.5rem;
+      font-size: 0.8rem;
+      border-radius: 3px;
+      margin-bottom: 2rem;
+      cursor: pointer;
+    }
+  }
+}
+
+.back-btn {
+  //   font-size: 0.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  span {
+    margin-left: 0.5rem;
+  }
+}
+
+.checkout-back-btn {
+  font-size: 0.8rem;
+  display: flex;
+  align-items: center;
+  span {
+    margin-left: 0.5rem;
+  }
+}

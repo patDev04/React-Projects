@@ -1,0 +1,21 @@
+.container {
+  display: grid;
+  grid-template-columns: 1fr 6fr;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.filter {
+  top: 0;
+  left: 0;
+  padding: 1rem;
+  border-right: solid rgb(223, 223, 223) 0.1px;
+}
+
+.list {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.2rem;
+  row-gap: 2rem;
+  padding-bottom: 4rem;
+}
